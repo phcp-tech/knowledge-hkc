@@ -1,4 +1,4 @@
-English | [简体中文](./README-zh-hans.md)
+English | [简体中文](./README-zh.md)
 
 # HKC: Human Knowledge Classification
 
